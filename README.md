@@ -1,8 +1,8 @@
-#概要  
+# 概要  
 Processingで書かれた最小二乗法プログラムです。  
 [Processingのダウンロードページ](https://processing.org/download)  
 
-#使い方  
+# 使い方  
 Processingのエディタで起動  
 左の平面はパラメータ平面を表し、赤い点をマウスで動かして入出力関係を変更できる  
 ※横軸が傾き、縦軸が切片  
